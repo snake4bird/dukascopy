@@ -1,0 +1,3 @@
+# dukascopy
+
+ftech dukascopy data
